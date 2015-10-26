@@ -5,7 +5,7 @@ Hasta ahora trabajamos con individuos _simples_, de dos tipos:
 
 Con sólo estas dos cosas pudimos resolver muchos problemas.
 
-Por ejemplo, si queremos modelar personajes de [Game Of Thrones](https://es.wikipedia.org/wiki/Game%20of%20Thrones), de la que conocemos su edad y sexo, podríamos construir nuestra base de conocimientos
+Por ejemplo, si queremos modelar personajes de [Game Of Thrones](https://es.wikipedia.org/wiki/Game%20of%20Thrones), de los que conocemos su edad y sexo, podríamos construir nuestra base de conocimientos
 de la siguiente forma:
 
 ```prolog

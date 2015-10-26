@@ -1,6 +1,6 @@
-Volamos al ejemplo de la introducción: queremos construir una base de conocimiento de personajes de Game of Thrones. Y como ya vimos, es engorroso modelarlos a los personajes con individuos simples.
+Volvamos al ejemplo de la introducción: queremos construir una base de conocimiento de personajes de Game of Thrones. Y como ya vimos, es engorroso modelar a los personajes con individuos simples.
 
-Entonces, tenemos una solución: las **tuplas**. Estas nos permiten tratar a un conjunto ordenado de indiviuos como si fueran uno sólo. Por ejemplo, las siguientes son tuplas de dos componentes (decimos que tienen **aridad 2**):
+Entonces, tenemos una solución: las **tuplas**. Estas nos permiten tratar a un conjunto ordenado de individuos como si fueran uno solo. Por ejemplo, las siguientes son tuplas de dos componentes (decimos que tienen **aridad 2**):
 
   * un personaje, de la que sabemos edad y sexo: `(15, sexo)`
   * un helado, del que sabemos peso y temperatura: `(1, -3)`
