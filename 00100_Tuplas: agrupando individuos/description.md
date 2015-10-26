@@ -10,7 +10,7 @@ O de **aridad 3**:
 
   * una dirección, de la que sabemos nombre, calle y altura:`(utn, medrano, 951)`
 
-Sabiendo esto, podemos modelar a nuesta base de conocimientos así:
+Sabiendo esto, podemos modelar a nuestra base de conocimientos así:
 
 ```prolog
 personaje(jonSnow, (18, hombre)).
